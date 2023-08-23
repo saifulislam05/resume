@@ -26,6 +26,7 @@ In this assignment, I've created a personal resume webpage using HTML. The struc
 
 - Used `<h3>` tag to indicate my role as a Learner at Geekster.
 - Used `<p>` tag to describe my learning experience at Geekster.
+![image](https://github.com/saifulislam05/resume/assets/73392705/22e2c6db-0722-4be8-add8-21ca2d3ccb92)
 
 ### Skills Section
 
@@ -37,6 +38,7 @@ In this assignment, I've created a personal resume webpage using HTML. The struc
 
 - Used `<h2>` tag to introduce the Hobbies section.
 - Utilized an ordered list (`<ol>`) to list my hobbies:
+![image](https://github.com/saifulislam05/resume/assets/73392705/f1b25711-422a-418b-a607-f34033f4b4db)
 
 
 ### Projects Section
